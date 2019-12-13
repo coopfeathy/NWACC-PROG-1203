@@ -1,0 +1,3 @@
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW5/CooperFeatherstoneHW5/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW5/CooperFeatherstoneHW5/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW5/CooperFeatherstoneHW5/cmake-build-debug/CMakeFiles/CooperFeatherstoneHW5.dir

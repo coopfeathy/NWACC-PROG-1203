@@ -1,0 +1,66 @@
+Collection contains 6000 records.
+First person: 1, Hugo L. Casey, 6/5/1990
+Last person: 6000, Wilber J. Ordway, 11/5/1971
+
+Collection contains 1393 unique First names.
+           John: 123          James: 118        Michael: 113         Robert:  91
+          David:  90        William:  74           Mary:  66         Thomas:  58
+        Richard:  56         Joseph:  56        Charles:  46    Christopher:  38
+      Elizabeth:  36        Kenneth:  36           Mark:  36          Maria:  34
+           Paul:  33       Jennifer:  33        Barbara:  32       Margaret:  31
+       Patricia:  31         Steven:  29        Timothy:  29         Edward:  28
+        Matthew:  27        Dorothy:  27          Susan:  26           Lisa:  26
+          Linda:  26          Jason:  26        Raymond:  25           Jose:  25
+          Karen:  25         Ronald:  24          Kevin:  24         Donald:  24
+        Stephen:  24         George:  23          Brian:  22           Ruth:  22
+         Sandra:  21          Helen:  21          Donna:  20          Laura:  20
+          Frank:  19          Larry:  19        Shirley:  19        Jessica:  19
+         Daniel:  19        Heather:  18         Andrew:  18       Virginia:  18
+          Betty:  18        Gregory:  17          Joyce:  17        Anthony:  17
+          Terry:  17         Pamela:  17          Nancy:  17           Gary:  16
+            Amy:  16         Sharon:  16      Christine:  16         Dennis:  15
+            Ann:  15       Michelle:  15          Shawn:  15         Angela:  15
+          Scott:  15          Jerry:  15         Martha:  15          Alice:  15
+          Carol:  14         Arthur:  14          Henry:  14          Roger:  14
+      Christina:  14          Debra:  14        Melissa:  14        Jeffrey:  14
+          Marie:  13          Bruce:  13           Todd:  13          Oscar:  13
+        Deborah:  13           Jack:  13          Annie:  13          Janet:  13
+         Leslie:  13           Eric:  13           Alan:  13         Evelyn:  13
+           Lori:  13        Carolyn:  13         Eugene:  12           Anna:  12
+          Keith:  12          Tracy:  12      Catherine:  12           Ryan:  12
+
+Collection contains 2003 unique City names.
+            New York:  95         Los Angeles:  92             Houston:  77
+        Philadelphia:  63             Chicago:  61              Dallas:  52
+             Atlanta:  50           San Diego:  45             Seattle:  44
+             Phoenix:  43            Portland:  40       San Francisco:  38
+           Charlotte:  36          Washington:  34               Miami:  32
+         San Antonio:  32             Jackson:  31        Indianapolis:  30
+             Memphis:  29            Columbus:  27           Cambridge:  27
+          Southfield:  27               Tampa:  27              Denver:  27
+              Newark:  27          Pittsburgh:  26              Austin:  26
+         Springfield:  26         Saint Louis:  25          Louisville:  25
+         Minneapolis:  25             Orlando:  25           Arlington:  24
+        Grand Rapids:  24           Nashville:  24           Milwaukee:  24
+          Birmingham:  23        Jacksonville:  23          Sacramento:  22
+         Little Rock:  22            San Jose:  22       Oklahoma City:  22
+          Cincinnati:  22            Richmond:  22              Camden:  22
+         Kansas City:  22           Lexington:  22              Boston:  21
+      Salt Lake City:  21             Oakland:  20           Baltimore:  20
+            Syracuse:  20             Detroit:  20              Irvine:  20
+      Corpus Christi:  19           Las Vegas:  19               Akron:  18
+              Tucson:  18          Greenville:  18             Anaheim:  18
+          Manchester:  18        Fayetteville:  17         New Orleans:  17
+              Fresno:  17          Montgomery:  16             Norfolk:  16
+         Bloomington:  15              Albany:  15    Colorado Springs:  15
+              Toledo:  15                Reno:  15          Fort Myers:  15
+            Norcross:  15             Madison:  14            Metairie:  14
+         Albuquerque:  14       Rochelle Park:  14     West Palm Beach:  14
+             Wichita:  14             Buffalo:  14         Garden City:  13
+          Shreveport:  13     Fort Lauderdale:  13           Green Bay:  13
+             Raleigh:  12            Stamford:  12            Columbia:  12
+             Concord:  12            Longview:  12           Riverside:  12
+              Aurora:  12          Harrisburg:  12            Hartford:  12
+          Charleston:  11          Huntsville:  11            Stockton:  11
+              Peoria:  11            Honolulu:  11           Worcester:  11
+          Huntington:  11               Plano:  11          Providence:  11

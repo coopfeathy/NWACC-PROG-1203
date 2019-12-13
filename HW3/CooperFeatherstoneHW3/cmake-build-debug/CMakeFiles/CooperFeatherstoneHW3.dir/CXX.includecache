@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW3/CooperFeatherstoneHW3/Number.cpp
+cmath
+-
+iostream
+-
+Number.h
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW3/CooperFeatherstoneHW3/Number.h
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW3/CooperFeatherstoneHW3/Number.h
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW3/CooperFeatherstoneHW3/main.cpp
+iostream
+-
+Number.h
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW3/CooperFeatherstoneHW3/Number.h
+

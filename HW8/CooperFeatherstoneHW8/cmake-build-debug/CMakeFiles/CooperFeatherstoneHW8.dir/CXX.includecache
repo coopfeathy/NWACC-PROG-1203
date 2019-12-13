@@ -1,0 +1,58 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Concordance.cpp
+Concordance.h
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Concordance.h
+istream
+-
+algorithm
+-
+sstream
+-
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Concordance.h
+vector
+-
+fstream
+-
+map
+-
+Word.h
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Word.h
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Word.cpp
+Word.h
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Word.h
+regex
+-
+iostream
+-
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Word.h
+string
+-
+vector
+-
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/main.cpp
+string
+-
+iomanip
+-
+iostream
+-
+dirent.h
+-
+vector
+-
+Word.h
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Word.h
+Concordance.h
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW8/CooperFeatherstoneHW8/Concordance.h
+

@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW5/CooperFeatherstoneHW5/LargeInt.cpp
+string
+-
+iostream
+-
+LargeInt.h
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW5/CooperFeatherstoneHW5/LargeInt.h
+
+/Users/featherstoc/Desktop/Ignite C++/Year 2/HW5/CooperFeatherstoneHW5/LargeInt.h
+vector
+-
+
